@@ -1,0 +1,15 @@
+Контест на codeforces: https://codeforces.com/group/1rv4rhCsHp/contests
+
+Оригинальная статья на английском: https://codeforces.com/blog/entry/57319
+
+Оригинальная статья на китайском: http://www.doc88.com/p-6744902151779.html
+
+Реализации алгоритмов из этого видео:
+
+%= на отрезке, = в точке, сумма на отрезке: https://pastebin.com/wabDfjKi
+
+Ji Driver Segment Tree (min= на отрезке, сумма на отрезке): https://pastebin.com/bEEQsDr7
+
+min= на отрезке, max= на отрезке, += на отрезке, = на отрезке, сумма на отрезке, минимум на отрезке, максимум на отрезке: https://pastebin.com/UJhuFA3a
+
+Все то, что было в прошлой реализации, но еще и поиск НОДа на отрезке: https://pastebin.com/jDMC5R2T
